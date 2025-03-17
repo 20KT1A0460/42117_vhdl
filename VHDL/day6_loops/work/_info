@@ -1,0 +1,68 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/venkatesh_data/VHDL/day6_loops
+T_opt
+!s110 1742142308
+Veb1K=oM36YKPZJl`dRlPb2
+Z1 04 5 3 work loops sim 1
+=1-c85b76278b17-67d6fb64-bd-1dfc
+o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+R0
+T_opt1
+Z4 !s110 1742143253
+V32gE0lG4``Nzi^STe3d=@0
+R1
+=1-c85b76278b17-67d6ff15-204-178c
+o-quiet -auto_acc_if_foreign -work work +acc
+R2
+n@_opt1
+R3
+Eloops
+Z5 w1742143240
+Z6 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+R0
+Z8 8loops.vhd
+Z9 Floops.vhd
+l0
+L3
+VRQSN4A<f3_G>kaH[nVNdm3
+!s100 DSjONEMz?f6dYcMREmAXh3
+Z10 OL;C;10.7c;67
+33
+R4
+!i10b 1
+Z11 !s108 1742143252.000000
+Z12 !s90 -2008|-reportprogress|30|loops.vhd|
+Z13 !s107 loops.vhd|
+!i113 0
+Z14 o-2008
+Z15 tExplicit 1 CvgOpt 0
+Asim
+R6
+R7
+DEx4 work 5 loops 0 22 RQSN4A<f3_G>kaH[nVNdm3
+l7
+L5
+VjOT7;5?Jmh6g]>iiRlEdE1
+!s100 Mn?U[e=DeJGN@6LXmD8_10
+R10
+33
+R4
+!i10b 1
+R11
+R12
+R13
+!i113 0
+R14
+R15
